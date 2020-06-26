@@ -9,8 +9,8 @@ Ratings alone do not give a complete picture of the products we wish to purchase
 
 This project will serve three purposes 
 
-1.Help consumers to understand the sentiment of the review(Sentiment Analysis).
+1. Help consumers to understand the sentiment of the review(Sentiment Analysis).
 
-2.Help the consumers to get consumer feedback in the form of topics covered by the reviews without having to go through all of them(Topic Modeling. 
+2. Help the consumers to get consumer feedback in the form of topics covered by the reviews without having to go through all of them(Topic Modeling. 
 
-3.Enable consumers to quickly extract the summary of the reviews without reading the entirely(Text Summarization).
+3. Enable consumers to quickly extract the summary of the reviews without reading the entirely(Text Summarization).
